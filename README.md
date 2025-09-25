@@ -7,19 +7,15 @@
 
 - 🔭 I’m currently working on **WEB Application**
 
-- 🌱 I’m currently learning **Uipath,Kafka**
+- 🌱 I’m currently learning **micro services**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- 👯 I’m looking to collaborate on **Full Stack projects**
 
 - 🤝 I’m looking for help with **Cloud native**
-
-- 👨‍💻 All of my projects are available at [https://www.abdulbaasith.com/](https://www.abdulbaasith.com/)
 
 - 💬 Ask me about **Angular,NODE.js,Tech**
 
 - 📫 How to reach me **abdulbaasith1124@gmail.com**
-
-- 📄 Know about my experiences [https://www.abdulbaasith.com/](https://www.abdulbaasith.com/)
 
 - ⚡ Fun fact **I think I am Funny**
 
