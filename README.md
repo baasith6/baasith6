@@ -1,119 +1,86 @@
-# Abdul Baasith
+# Hi, I'm Abdul Baasith
 
-**Full-Stack Developer | Backend Systems | Product Engineering | AI-Assisted Developer Tools**
+I'm a full-stack developer from Sri Lanka. I build web apps, mobile apps, backend APIs, automation tools, and internal business systems.
 
-I build business-focused software systems, internal tools, automation workflows, and developer tooling. My work is mainly around **ASP.NET Core**, **C#**, **Angular**, **Flutter**, **Supabase**, **SQL databases**, and **AI-assisted engineering workflows**.
+Most of my work is around **C# / ASP.NET Core**, **Angular**, **Flutter**, **SQL databases**, and practical software architecture.
 
-I care about clean architecture, practical system design, maintainable code, and software that solves real operational problems.
-
----
-
-## Selected Work
-
-### [RepoGraph Protocol](https://github.com/baasith6/RepoGraph-Protocol)
-Architecture intelligence tooling for developers, CI pipelines, and AI coding assistants.
-
-- Converts repositories into machine-readable project context
-- Maps modules, dependencies, ownership, risks, and architecture rules
-- Includes CLI support, examples, npm publishing, and GitHub Actions workflow
-- Focus areas: **developer tooling, static analysis, architecture governance, AI context engineering**
-
-**Tech:** TypeScript, Node.js, GitHub Actions, npm, Monorepo, CLI tooling
+I like building systems that solve real problems, not just UI screens. My current focus is improving how I design, document, and structure software so the projects are easier to maintain and scale.
 
 ---
 
-### [Venue Autofill API](https://github.com/baasith6/optimo-venue-autofill)
-ASP.NET Core API for enriching venue data using external providers, AI formatting, image validation, and cloud storage.
+## What I work with
 
-- Integrates Google Places, Google Custom Search, OpenRouter, and Azure Blob Storage
-- Normalizes venue images and validates image confidence across multiple sources
-- Uses structured configuration, user secrets, and fallback handling
-- Focus areas: **API design, external integrations, cloud storage, data enrichment**
-
-**Tech:** ASP.NET Core, C#, Azure Blob Storage, Google Places API, OpenRouter, REST API
-
----
-
-### [Flutter POS System](https://github.com/baasith6/nch-pos-flutter)
-Retail Point of Sale application for checkout, inventory, receipts, reporting, and role-based access.
-
-- Supports barcode scanning, cart management, discounts, tax, refunds, and sale history
-- Generates thermal-printer-ready PDF receipts
-- Uses Supabase RPCs for transactional sale creation and stock deduction
-- Includes admin/staff role separation and sales analytics
-- Focus areas: **mobile product engineering, business workflows, inventory logic, transactional data handling**
-
-**Tech:** Flutter, Dart, Riverpod, Supabase, PostgreSQL, Supabase Auth, Storage, RPCs
+- **Backend:** C#, ASP.NET Core, Node.js, REST APIs
+- **Frontend:** Angular, React, JavaScript, TypeScript, Bootstrap
+- **Mobile:** Flutter, Dart
+- **Database:** SQL Server, PostgreSQL, SQLite, MySQL, Supabase
+- **Architecture:** Clean Architecture, Repository Pattern, MVC, CQRS basics
+- **Tools:** GitHub Actions, Azure Blob Storage, Firebase, Supabase, API integrations
 
 ---
 
-### [Unicom TIC Management System](https://github.com/baasith6/UnicomTICManagementSystem)
-Desktop academic management system with role-based access for admins, lecturers, staff, and students.
+## Projects I want you to check
 
-- Manages students, lecturers, staff, courses, departments, subjects, rooms, exams, marks, attendance, and timetables
-- Implements repository/service/controller-style separation
-- Uses SQLite persistence, BCrypt password hashing, email workflows, and assistant integration
-- Focus areas: **role-based systems, desktop application architecture, academic operations, data management**
+### RepoGraph Protocol
+A developer tool that reads a codebase and creates structured project context for developers, CI pipelines, and AI coding tools.
 
-**Tech:** C#, WinForms, SQLite, BCrypt, MailKit, Repository Pattern, MVC-inspired structure
+It focuses on architecture rules, modules, dependencies, ownership, and codebase understanding.
 
----
-
-## Engineering Focus
-
-- Designing maintainable backend systems and APIs
-- Building role-based business applications
-- Structuring projects with clean architecture principles
-- Creating automation and developer productivity tools
-- Integrating third-party APIs and cloud services
-- Turning unclear product requirements into working systems
+**Tech:** TypeScript, Node.js, GitHub Actions, npm, CLI tooling  
+**Repo:** [RepoGraph Protocol](https://github.com/baasith6/RepoGraph-Protocol)
 
 ---
 
-## Core Stack
+### Venue Autofill API
+An ASP.NET Core API that enriches venue data using Google Places, Custom Search, AI formatting, image validation, and Azure Blob Storage.
 
-| Area | Technologies |
-|---|---|
-| Backend | ASP.NET Core, C#, Node.js, REST APIs |
-| Frontend | Angular, React, JavaScript, TypeScript, Bootstrap |
-| Mobile | Flutter, Dart, Android basics |
-| Database | SQL Server, PostgreSQL, SQLite, MySQL, Supabase |
-| Architecture | Clean Architecture, Repository Pattern, CQRS basics, MVC |
-| Cloud / Tools | Azure Blob Storage, GitHub Actions, Firebase, Supabase |
-| AI / Automation | OpenRouter, AI-assisted workflows, RPA concepts, developer tooling |
+This project helped me work deeper with external APIs, data cleaning, cloud storage, and fallback handling.
+
+**Tech:** ASP.NET Core, C#, Google Places API, Azure Blob Storage, OpenRouter  
+**Repo:** [Venue Autofill API](https://github.com/baasith6/optimo-venue-autofill)
 
 ---
 
-## How I Work
+### Flutter POS System
+A POS application for small retail shops with checkout, barcode scanning, stock handling, receipts, reports, and admin/staff roles.
 
-- I prefer clear architecture over rushed feature stacking.
-- I document setup, configuration, and project decisions.
-- I separate business logic from UI wherever possible.
-- I focus on practical software that can be maintained after the first version.
-- I use AI tools carefully to speed up development, not to replace engineering judgment.
+The main challenge was handling real business flow: sales, stock deduction, refunds, payment methods, and receipt generation.
+
+**Tech:** Flutter, Riverpod, Supabase, PostgreSQL, RPCs  
+**Repo:** [Flutter POS System](https://github.com/baasith6/nch-pos-flutter)
 
 ---
 
-## Current Direction
+### Unicom TIC Management System
+A desktop academic management system with role-based access for admin, lecturer, staff, and student users.
 
-I am currently strengthening my work around:
+It includes courses, subjects, timetables, exams, marks, attendance, user approval, email handling, and SQLite-based persistence.
 
-- ASP.NET Core backend systems
-- Angular and full-stack product development
+**Tech:** C#, WinForms, SQLite, BCrypt, MailKit  
+**Repo:** [Unicom TIC Management System](https://github.com/baasith6/UnicomTICManagementSystem)
+
+---
+
+## What I'm trying to improve
+
+Right now, I'm focused on becoming stronger in:
+
+- Backend architecture
+- Clean project structure
+- Full-stack product development
+- API design
+- Angular and ASP.NET Core
 - Flutter business applications
-- AI-assisted developer tooling
-- Architecture documentation and codebase analysis
+- AI-assisted developer tools
+
+I still have many things to improve, but I prefer building and learning through real projects instead of only following tutorials.
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=baasith6&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=baasith6&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baasith6&show_icons=true" alt="GitHub stats" />
 </p>
 
 ---
